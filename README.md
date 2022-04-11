@@ -31,5 +31,5 @@ The basic LSTM model is from TA's tutorial
 
 The SPC-roberta model is our self-written codes based on the huggingface tutorial of simple textual classification
 
-For the file <Solution Sharing.pdf>, it is the presentation slide that our group used to share our group's ideas and experiment designs for the class. 
+For the file **Solution Sharing.pdf**, it is the presentation slide that our group used to share our group's ideas and experiment designs for the class. 
   
